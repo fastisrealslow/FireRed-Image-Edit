@@ -88,7 +88,11 @@ pip install git+https://github.com/huggingface/diffusers
 ```
 2. Use the following code snippets to generate or edit images.
 ```
-python inference.py
+python inference.py \
+    --input_image ./example/edit_example.png \
+    --prompt "在书本封面Python的下方，添加一行英文文字2nd Edition" \
+    --output_image output_edit.png \
+    --seed 43
 ```
 
 ## 📊 Benchmark
@@ -381,7 +385,7 @@ The REDEdit-Bench dataset will be available soon.
         <td style="padding: 8px; border: 1px solid #d0d7de; text-align: center; white-space: nowrap;"><u>7.819</u></td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #d0d7de; text-align: left; white-space: nowrap;"><strong>\methodname</strong></td>
+        <td style="padding: 8px; border: 1px solid #d0d7de; text-align: left; white-space: nowrap;"><strong>FireRed-Image-Edit</strong></td>
         <td style="padding: 8px; border: 1px solid #d0d7de; text-align: center; white-space: nowrap;"><strong>8.363</strong></td>
         <td style="padding: 8px; border: 1px solid #d0d7de; text-align: center; white-space: nowrap;"><strong>8.245</strong></td>
         <td style="padding: 8px; border: 1px solid #d0d7de; text-align: center; white-space: nowrap;"><strong>7.943</strong></td>
