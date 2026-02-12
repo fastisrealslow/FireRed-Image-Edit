@@ -21,9 +21,9 @@
 
 ## ✨ Key Features
 - **Strong Editing Performance**: FireRed-Image-Edit delivers leading open-source results with accurate instruction following, high image quality, and consistent visual coherence.
-- **Text Style Preservation**: Maintains text styles with high fidelity, achieving performance comparable to closed-source solutions
-- **Photo Restoration**: High-quality old photo restoration and enhancement
-- **Multi-Image Editing**: Flexible editing of multiple images such as virtual try-on
+- **Text Style Preservation**: Maintains text styles with high fidelity, achieving performance comparable to closed-source solutions.
+- **Photo Restoration**: High-quality old photo restoration and enhancement.
+- **Multi-Image Editing**: Flexible editing of multiple images such as virtual try-on.
 
 
 ## 📰 News
