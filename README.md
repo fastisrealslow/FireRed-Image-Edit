@@ -110,6 +110,7 @@ The REDEdit-Bench dataset will be available soon.
   <thead>
     <tr>
       <th style="border:1px solid #ddd; padding:8px; text-align:left;">Model</th>
+      <th style="border:1px solid #ddd; padding:8px; text-align:center;">Overall ↑</th>
       <th style="border:1px solid #ddd; padding:8px; text-align:center;">Add</th>
       <th style="border:1px solid #ddd; padding:8px; text-align:center;">Adjust</th>
       <th style="border:1px solid #ddd; padding:8px; text-align:center;">Extract</th>
@@ -119,7 +120,6 @@ The REDEdit-Bench dataset will be available soon.
       <th style="border:1px solid #ddd; padding:8px; text-align:center;">Style</th>
       <th style="border:1px solid #ddd; padding:8px; text-align:center;">Hybrid</th>
       <th style="border:1px solid #ddd; padding:8px; text-align:center;">Action</th>
-      <th style="border:1px solid #ddd; padding:8px; text-align:center;">Overall ↑</th>
     </tr>
   </thead>
   <tbody>
@@ -131,6 +131,7 @@ The REDEdit-Bench dataset will be available soon.
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">Nano-Banana</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.29</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.62</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.41</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.68</td>
@@ -140,10 +141,10 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.18</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>3.72</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.83</b></td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.29</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">Seedream4.0</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.30</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.33</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.38</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>3.89</b></td>
@@ -153,10 +154,10 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.22</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.71</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.61</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.30</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">Seedream4.5</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.32</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.57</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.65</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">2.97</td>
@@ -166,10 +167,10 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.92</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.71</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.56</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.32</u></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">Nano-Banana-Pro</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.37</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.44</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.62</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.42</td>
@@ -179,7 +180,6 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.97</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.64</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.69</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.37</b></td>
     </tr>
     <!-- Group: Open-source Models -->
     <tr>
@@ -189,6 +189,7 @@ The REDEdit-Bench dataset will be available soon.
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">FLUX.1 Kontext [Dev]</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.71</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.99</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.88</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">2.19</td>
@@ -198,10 +199,10 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.51</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.23</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.18</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.71</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">Step1X-Edit-v1.2</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.95</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.91</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.04</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">2.68</td>
@@ -211,10 +212,10 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.82</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.23</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.22</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.95</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">Qwen-Image-Edit-2509</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.31</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.34</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.27</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.42</td>
@@ -224,10 +225,10 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.91</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.56</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.80</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.31</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">FLUX.2 [Dev]</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.35</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.50</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.18</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.83</td>
@@ -237,10 +238,10 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.88</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.46</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.70</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.35</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">LongCat-Image-Edit</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.45</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.44</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.53</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.83</td>
@@ -250,10 +251,10 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.92</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.75</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.82</u></td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.45</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">Qwen-Image-Edit-2511</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.51</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.54</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.57</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.13</u></td>
@@ -263,10 +264,10 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.89</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.16</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.81</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.51</u></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;"><b>FireRed-Image-Edit</b></td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.56</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.55</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.66</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.34</b></td>
@@ -276,11 +277,9 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.97</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.07</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.71</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.56</b></td>
     </tr>
   </tbody>
 </table>
-
 ### Results on GEdit (official public benchmark)
 
 <div style="overflow-x: auto; margin-bottom: 16px;">
@@ -830,7 +829,7 @@ We kindly encourage citation of our work if you find it useful.
 ```bibtex
 @article{firered2026rededit,
       title={FireRed-Image-Edit: A General-Purpose Image Editing Model}, 
-      author={Changhao Qiao and Chao Hui and Chen Li and Cunzheng Wang and Dejia Song and Jiale Zhang and Jing Li and Qiang Xiang and Runqi Wang and Shuang Sun and Wei Zhu and Xu Tang and Yao Hu and Yibo Chen and Haohua Chen and Haolu Liu and Honghao Cai and Shurui Shi and Shuyang Lin and Sijie Xu and Tianshuo Yuan and Tianze Zhou and Wenxin Yu and Xiangyuan Wang and Xudong Zhou and Yahui Wang and Yandong Guan and Yanqin Chen and Yilian Zhong and Ying Li and Yunhao Bai and Yushun Fang and Zeming Liu and Zhangyu Lai and Zhiqiang Wu},
+      author={Super Intelligence Team},
       year={2026},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
