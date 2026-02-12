@@ -232,7 +232,7 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.50</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.18</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.83</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.65</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.65</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.65</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.31</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.88</td>
@@ -250,7 +250,7 @@ The REDEdit-Bench dataset will be available soon.
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.33</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.92</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">3.75</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.82</u></td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.82</b></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;">Qwen-Image-Edit-2511</td>
@@ -268,18 +268,19 @@ The REDEdit-Bench dataset will be available soon.
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:left;"><b>FireRed-Image-Edit</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.56</b></td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.55</u></td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.55</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.66</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.34</b></td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.75</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b?4.75</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.58</u></td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.45</u></td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.45</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><b>4.97</b></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><u>4.07</u></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">4.71</td>
     </tr>
   </tbody>
 </table>
+
 ### Results on GEdit (official public benchmark)
 
 <div style="overflow-x: auto; margin-bottom: 16px;">
