@@ -35,10 +35,35 @@
 - 2026.02.14: We released FireRed-Image-Edit-1.0 model weights. Check more details in the [Model Zoo](#-model-zoo) section.
 - 2026.02.10: We released the [Technical Report](https://github.com/FireRedTeam/FireRed-Image-Edit/blob/main/assets/FireRed_Image_Edit_1_0_Techinical_Report.pdf) of FireRed-Image-Edit-1.0. 
 
+## 🏆 Evaluation Results
+FireRed-Image-Edit establishes a new state-of-the-art among open-source models on Imgedit, Gedit, and RedEdit, while surpassing or closed-source competitors in specific dimensions—a distinction further corroborated by human evaluations highlighting its superior prompt following and visual consistency.
+<p align="center">
+    <img src="./assets/eval_benchmark.png" width="600"/>
+<p>
+<p align="center">
+    <img src="./assets/eval_human.png" width="600"/>
+<p>
+
+
 ## 🎨 Showcase
 Some real outputs produced by FireRed-Image-Edit across genearl editing.
 <p align="center">
     <img src="./assets/showcase.png" width="800"/>
+<p> 
+
+* Creative scenarios
+<p align="center">
+    <img src="./assets/showcase_creativity.png" width="800"/>
+<p> 
+
+* Text scenarios:
+<p align="center">
+    <img src="./assets/showcase_text.png" width="800"/>
+<p> 
+
+* Tryon scenarios:
+<p align="center">
+    <img src="./assets/showcase_virtual_tryon.png" width="800"/>
 <p> 
 
 ## 🗂️ Model Zoo
