@@ -125,7 +125,7 @@ pip install git+https://github.com/huggingface/diffusers
 2. Use the following code snippets to generate or edit images.
 ```
 python inference.py \
-    --input_image ./example/edit_example.png \
+    --input_image ./examples/edit_example.png \
     --prompt "在书本封面Python的下方，添加一行英文文字2nd Edition" \
     --output_image output_edit.png \
     --seed 43
