@@ -9,14 +9,14 @@
   <a href="https://modelscope.cn/studios/FireRedTeam/FireRed-Image-Edit-1.0" target="_blank"><img alt="MS Demo" src="https://img.shields.io/badge/%F0%9F%A4%96%20MS%20Demo-FireRed--Image--Edit--1.0-624aff" style="display: inline-block;"/></a>
   <a href='https://github.com/FireRedTeam/FireRed-Image-Edit'><img src='https://img.shields.io/badge/GitHub-Code-black'></a>
   <a href='https://www.apache.org/licenses/LICENSE-2.0'><img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="License"></a>
-  <a href="https://github.com/FireRedTeam/FireRed-Image-Edit/blob/main/assets/FireRed_Image_Edit_1_0_Techinical_Report.pdf" target="_blank"><img src="https://img.shields.io/badge/Report-b5212f.svg?logo=arxiv"></a>
+  <a href="https://arxiv.org/abs/2602.13344" target="_blank"><img src="https://img.shields.io/badge/Report-b5212f.svg?logo=arxiv"></a>
 </p> 
 
 <p align="center">
     🤗 <a href="https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0">HuggingFace</a> |
     🤖 <a href="https://modelscope.cn/models/FireRedTeam/FireRed-Image-Edit-1.0">ModelScope</a> |
     🖥️ <a href="https://huggingface.co/spaces/FireRedTeam/FireRed-Image-Edit-1.0">Demo</a> |
-    📄 <a href="https://github.com/FireRedTeam/FireRed-Image-Edit/blob/main/assets/FireRed_Image_Edit_1_0_Techinical_Report.pdf">Technical Report</a>
+    📄 <a href="https://arxiv.org/abs/2602.13344">Technical Report</a>
 </p>
 <p align="center">
     <img src="./assets/teaser.png" width="800"/>
@@ -36,7 +36,7 @@
 
 ## 📰 News
 - 2026.02.14: We released FireRed-Image-Edit-1.0 model weights. Check more details on [Huggingface](https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0) and [ModelScope](https://modelscope.cn/models/FireRedTeam/FireRed-Image-Edit-1.0).
-- 2026.02.10: We released the [Technical Report](https://github.com/FireRedTeam/FireRed-Image-Edit/blob/main/assets/FireRed_Image_Edit_1_0_Techinical_Report.pdf) of FireRed-Image-Edit-1.0. 
+- 2026.02.10: We released the [Technical Report](https://arxiv.org/abs/2602.13344) of FireRed-Image-Edit-1.0. 
 
 ## 🏆 Evaluation Results
 FireRed-Image-Edit establishes a new state-of-the-art among open-source models on Imgedit, Gedit, and RedEdit, while surpassing our closed-source competitors in specific dimensions—a distinction further corroborated by human evaluations highlighting its superior prompt following and visual consistency.
